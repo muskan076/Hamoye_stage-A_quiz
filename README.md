@@ -1,4 +1,3 @@
-# Hamoye_stage-A_quiz
+# Hamoye_stage_quiz_answers
 
-
-This is the quiz solutions for the stage A at Homoye data science internship.
+This is the quiz solutions for  stages A and B  at Homoye data science internship.
